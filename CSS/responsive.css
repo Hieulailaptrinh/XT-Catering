@@ -1,0 +1,63 @@
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+  }
+
+  .hero {
+    min-height: 500px;
+  }
+
+  .hero-content h1 {
+    font-size: 2.2rem;
+    padding: 0 10px;
+  }
+
+  .section-title {
+    font-size: 2rem;
+  }
+
+  .cta-container {
+    flex-direction: column;
+  }
+
+  .cta-text {
+    padding-right: 0;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  .finger-food-container {
+    flex-direction: column;
+  }
+
+  .ff-content h2 {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .ff-list {
+    padding-left: 10px;
+  }
+
+  .btn-black-cta {
+    display: block;
+    text-align: center;
+    width: 100%;
+  }
+
+  .ff-gallery {
+    width: 100%;
+  }
+
+  /* Căn chỉnh form */
+  .cta-form {
+    padding: 25px;
+    width: 100%;
+  }
+  .h-small {
+    height: 120px;
+  }
+  .h-medium {
+    height: 180px;
+  }
+}
